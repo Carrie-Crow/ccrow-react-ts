@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Hello World
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://jawblia.medium.com/use-the-github-api-to-display-code-in-a-react-app-51f1aebb5a4"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Reference Steps
         </a>
       </header>
     </div>
