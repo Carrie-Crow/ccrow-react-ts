@@ -1,0 +1,9 @@
+# This .yaml file will be used to test the service catalog for Backstage at zendesk/backstage
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ccrow-test-app
+spec:
+  type: service
+  lifecycle: experimental
+  owner: team-a
